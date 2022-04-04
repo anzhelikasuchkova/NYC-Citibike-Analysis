@@ -32,6 +32,15 @@ Create a set of visualizations to:
 2. [Checkout Times by Gender](https://public.tableau.com/views/CheckoutTimesbyGender_16489736627620/CheckoutTimesbyGender?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/93845867/161460092-8f256108-9ea1-4248-93ce-3033f8879c06.png)
 
+3. [Trips by Weekday for Each Hour](https://public.tableau.com/views/TripsbyWeekdayforEachHour_16490299730210/TripsbyWeekdayforEachHour?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/93845867/161460200-4aaf00ab-9f79-40ae-ab44-4ae01d7b55f7.png)
+
+4. [Trips by Gender (Weekday per Hour)](https://public.tableau.com/views/TripsbyGenderWeekdayperHour_16490306075010/TripsbyGenderWeekdayperHour?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+![Trips by Gender (Weekday per Hour) ](https://user-images.githubusercontent.com/93845867/161460298-87e2c690-1609-42e7-825d-e51ad942eaf4.png)
+
+5. [User Trips by Gender by Weekday](https://public.tableau.com/views/UserTripsbyGenderbyWeekday_16490315054050/UserTripsbyGenderbyWeekday?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/93845867/161460418-d4c3bf61-840b-447f-ae7e-1c102fd84260.png)
 
 - Deliverable 3: Create a Story and Report for the Final Presentation
 
