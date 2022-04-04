@@ -29,6 +29,10 @@ Create a set of visualizations to:
 1. [Checkout Times for Users](https://public.tableau.com/views/CheckoutTimesforUsers_16489733516520/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Checkout Times for Users](https://user-images.githubusercontent.com/93845867/161459933-198db525-118f-47c1-8dac-2ec398199a79.png)
 
+2. [Checkout Times by Gender](https://public.tableau.com/views/CheckoutTimesbyGender_16489736627620/CheckoutTimesbyGender?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+![Checkout Times by Gender](https://user-images.githubusercontent.com/93845867/161460092-8f256108-9ea1-4248-93ce-3033f8879c06.png)
+
+
 - Deliverable 3: Create a Story and Report for the Final Presentation
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
