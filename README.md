@@ -10,18 +10,18 @@ Create a set of visualizations to:
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week. 
 
-
 ### Resources
 - Sofware: Tableau Public, Jupyter Notebook
 - Languages: Python
 
+### Summary:
+- Deliverable 1: Change Trip Duration to a Datetime Format 
+- Deliverable 2: Create Visualizations for the Trip Analysis
+- Deliverable 3: Create a Story and Report for the Final Presentation
+
 ## Results:
 
 - Deliverable 1: Change Trip Duration to a Datetime Format 
-
-
-
-
 - Deliverable 2: Create Visualizations for the Trip Analysis
 - Deliverable 3: Create a Story and Report for the Final Presentation
 
