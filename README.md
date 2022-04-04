@@ -1,6 +1,6 @@
 # NYC-Citibike-Analysis
 
-### Overview of the statistical analysis:
+## Overview of the statistical analysis:
 
 Work with data visualization software called Tableau to present a business proposal for a bike-sharing company and convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
