@@ -44,15 +44,12 @@ Create a set of visualizations to:
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 
-[NYC Citibike Analysis Story](https://public.tableau.com/views/NYCCitibikeAnalysis_16490331701300/NYCCitibikeAnalysis?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+[NYC Citibike Analysis Story](https://public.tableau.com/views/NYCCitibikeAnalysis_16490331701300/NYCCitibikeAnalysis?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link) (all descriptions are added to captions)
 
-NYC Citibike Analysis Story includes all the visualizations described above as well as a dashboard showing a total # of rides, usage
+NYC Citibike Analysis Story includes all the visualizations described above as well as an added dashboard showing a total # of rides, usage
 breakdown by gender, average trip duration by age, and top starting locations.
 
 ![NYC Citibike Analysis](https://user-images.githubusercontent.com/93845867/161462053-1b6f01e8-55ea-42e3-9cbe-c9c3ed12634d.png)
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
 
 ## Summary:
 
