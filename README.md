@@ -53,15 +53,12 @@ breakdown by gender, average trip duration by age, and top starting locations.
 
 ## Summary:
 
-<img width="162" alt="Total # of Rides" src="https://user-images.githubusercontent.com/93845867/161463619-af0929e4-2f56-45d7-8710-4d3956551380.png">
+<img width="162" alt="Total # of Rides" src="https://user-images.githubusercontent.com/93845867/161463619-af0929e4-2f56-45d7-8710-4d3956551380.png"> <img width="185" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/93845867/161463665-08469784-0907-45b1-97ee-d2b4e7b2dd45.png">
 
 From the NYC Citibike Analysis we can draw some conclusions that proof the success of the bikeride sharing model:
 1. Most bikes get checked out for less than an hour. 
 2. Majority of bikes get checked out by males (over 100K) followed by female riders (over 30k).
 3. The busiest time for bike checkouts fall on Thursday afternoons between 5:00 and 7:00pm. 
 4. The largest usertype are male Subscribers. 
-
-
-<img width="185" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/93845867/161463665-08469784-0907-45b1-97ee-d2b4e7b2dd45.png">
 
 This is a successful business model because it proves a fast turnaround on the service, shows popularity, is highly marketable to male audience, and it generates a loyal customer fanbase. 
