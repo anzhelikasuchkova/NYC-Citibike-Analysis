@@ -10,7 +10,11 @@ Create a set of visualizations to:
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
-### Results:
+## Results:
+
+Deliverable 1: Change Trip Duration to a Datetime Format
+Deliverable 2: Create Visualizations for the Trip Analysis
+Deliverable 3: Create a Story and Report for the Final Presentation
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
