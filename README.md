@@ -21,8 +21,14 @@ Create a set of visualizations to:
 
 ## Results:
 
-- Deliverable 1: Change Trip Duration to a Datetime Format 
+- Deliverable 1: Change Trip Duration to a Datetime Format in Jupyter Notebook using Pandas and Datetime libraries.
+
+<img width="845" alt="Deliverable 1" src="https://user-images.githubusercontent.com/93845867/161459783-e1c7135d-b66b-4c61-92b9-b450127d86f6.png">
+
 - Deliverable 2: Create Visualizations for the Trip Analysis
+1. [Checkout Times for Users](https://public.tableau.com/views/CheckoutTimesforUsers_16489733516520/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+![Checkout Times for Users](https://user-images.githubusercontent.com/93845867/161459933-198db525-118f-47c1-8dac-2ec398199a79.png)
+
 - Deliverable 3: Create a Story and Report for the Final Presentation
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
