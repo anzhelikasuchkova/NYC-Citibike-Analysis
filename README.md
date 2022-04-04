@@ -12,9 +12,9 @@ Create a set of visualizations to:
 
 ## Results:
 
-Deliverable 1: Change Trip Duration to a Datetime Format
-Deliverable 2: Create Visualizations for the Trip Analysis
-Deliverable 3: Create a Story and Report for the Final Presentation
+- Deliverable 1: Change Trip Duration to a Datetime Format
+- Deliverable 2: Create Visualizations for the Trip Analysis
+- Deliverable 3: Create a Story and Report for the Final Presentation
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
