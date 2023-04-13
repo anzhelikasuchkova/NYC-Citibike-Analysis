@@ -1,4 +1,6 @@
-# NYC-Citibike-Analysis
+# NYC-Citibike-Analysis 
+
+This analysis was built using [Tableau Public](https://public.tableau.com/app/profile/anzhelika.suchkova/viz/NYCCitibikeAnalysis_16490331701300/NYCCitibikeAnalysis).
 
 ## Overview of the statistical analysis:
 
