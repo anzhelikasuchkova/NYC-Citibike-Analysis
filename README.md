@@ -2,7 +2,15 @@
 
 ## Overview of the statistical analysis:
 
-Work with data visualization software called Tableau to present a business proposal for a bike-sharing company and convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
+The main objective of the project is to analyze and visualize the Citibike data to gain insights into the patterns of bike usage in NYC. The project uses Python for data wrangling and analysis and Tableau for data visualization. The project also includes the use of various Python libraries, such as Pandas, Matplotlib, and Seaborn, to perform data cleaning, manipulation, and visualization.
+
+The project involves exploring various aspects of the Citibike program, including trip duration, station locations, user demographics, and popular routes. Through the data analysis and visualization, the project aims to identify patterns and trends in Citibike usage in different parts of the city, different times of the day, and different days of the week.
+
+Some of the key insights obtained from the analysis include the most popular starting and ending stations, the most common trip durations, and the busiest times of day and days of the week for Citibike usage. The project also provides visualizations of the data, such as heat maps, scatterplots, and bar charts, to help understand the patterns and trends in the data.
+
+Overall, the NYC Citibike Analysis project is a great example of how data analysis and visualization can be used to gain insights into large datasets and help organizations make data-driven decisions. One potential future improvement could be to incorporate machine learning algorithms to build predictive models or perform classification analysis on the Citibike data.
+
+
 
 Create a set of visualizations to:
 
@@ -15,6 +23,8 @@ Create a set of visualizations to:
 - Languages: Python
 
 ### Objectives:
+Work with data visualization software called Tableau to present a business proposal for a bike-sharing company and convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
+
 - Deliverable 1: Change Trip Duration to a Datetime Format 
 - Deliverable 2: Create Visualizations for the Trip Analysis
 - Deliverable 3: Create a Story and Report for the Final Presentation
